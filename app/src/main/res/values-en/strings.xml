@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Internacionalizacion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="EtiNombre">Name:</string>
+    <string name="EtiApe">Last Name:</string>
+    <string name="EtiEdad">Age:</string>
+    <string name="EtiPais">Country</string>
+</resources>
+

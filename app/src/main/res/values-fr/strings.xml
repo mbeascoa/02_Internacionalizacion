@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Internacionalizacion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="EtiNombre">Nom:</string>
+    <string name="EtiApe">Nom de famille:</string>
+    <string name="EtiEdad">Âge:</string>
+    <string name="EtiPais">Paises en Franceés</string>
+</resources>
